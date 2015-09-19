@@ -10,3 +10,6 @@
 create a new feature AND simple
 create two new feature AND SIMPLE
 add by issue-101
+suspend
+suspend2
+
