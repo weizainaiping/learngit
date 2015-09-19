@@ -10,3 +10,4 @@
 create a new feature AND simple
 create two new feature AND SIMPLE
 suspend
+suspend2
